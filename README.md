@@ -1,1 +1,1 @@
-![CV](https://ekaterina-cat.github.io/rsschool-cv/cv)
+[CV](https://ekaterina-cat.github.io/rsschool-cv/cv)
