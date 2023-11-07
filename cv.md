@@ -7,12 +7,13 @@
 * Email: [ekaterinaaleks9@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 * Phone Number: +375 29 882-48-88
 * Cit: [Ekaterina-cat](https://github.com/Ekaterina-cat)
+* Discorord: EkaterinaCat#9858
 
 ==================================================
 
 ## **About Me** ##
 
-Greetings. I am Ekaterina, a purposeful, persistent, slightly\ self-doubting person. I came to these courses to gain new\ knowledge, a new profession. I have no programming skills, but I\ will try to get them with diligence and work.
+Greetings. I am Ekaterina, a purposeful, persistent, slightly self-doubting person. I came to these courses to gain new knowledge, a new profession. I have no programming skills, but I will try to get them with diligence and work.
 
 ===================================================
 
@@ -36,7 +37,7 @@ Basic knowledge:
 
 ## **Work Experience** ##
 
-I have no real programming experience. Recently\ finished stage#0 RS School.
+I have no real programming experience. Recently finished stage#0 RS School.
 
 ===================================================
 
