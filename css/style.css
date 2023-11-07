@@ -78,7 +78,10 @@ h3{
     letter-spacing: 0.1em;
     font-size: 1em;
 }
-
+pre{
+    background-color: antiquewhite;
+    width: 28em;
+}
 
 .footer_container{    
     display: flex;
