@@ -1,1 +1,1 @@
-[CV](https://ekaterina-cat.github.io/rsschool-cv/cv)
+[HTML](https://ekaterina-cat.github.io/rsschool-cv/)
