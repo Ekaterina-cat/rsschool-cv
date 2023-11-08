@@ -36,7 +36,7 @@ li{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    gap: 1.3em;    
+    gap: 1.3em;
     margin-top: 10%;
 }
 .header-link{
@@ -59,8 +59,8 @@ main{
 .contact_info{width: 20em;}
 h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    letter-spacing: 0.1em;  
-    background: #FDD6B9; 
+    letter-spacing: 0.1em;
+    background: #FDD6B9;
     width: 12em; 
 }
 .icon_contact{
@@ -87,7 +87,7 @@ pre{
     width: 28em;
 }
 
-.footer_container{    
+.footer_container{
     display: flex;
     justify-content: space-around;
     height: 5em;    
