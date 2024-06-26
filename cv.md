@@ -6,8 +6,8 @@
 
 * Email: [ekaterinaaleks9@gmail.com](https://mail.google.com/mail/u/0/#inbox)
 * Phone Number: +375 29 882-48-88
-* Cit: [Ekaterina-cat](https://github.com/Ekaterina-cat)
-* Discorord: EkaterinaCat#9858
+* Git: [Ekaterina-cat](https://github.com/Ekaterina-cat)
+* Discorord: [EkaterinaCat#9858](https://discord.com/channels/@me)
 
 ==================================================
 
@@ -31,10 +31,12 @@ Basic knowledge:
 
 ## **Code Examples** ##
 
-`function areaLargestSquare(r) {
+```
+function areaLargestSquare(r) {
   const S = Math.pow (r, 2) * 2;
   return S; 
-}`
+}
+```
 
 ===================================================
 
@@ -46,9 +48,9 @@ I have no real programming experience only from courses RS School.
 
 ## **Education** ##
 
-Belarusian State University Faculty of Geography
-RS School stage#0 (2023Q2)
-RS School stage#1-2(2023Q4)
+* Belarusian State University Faculty of Geography
+* RS School stage#0 (2023Q2)
+* RS School stage#1-2(2023Q4)
 
 ===================================================
 
