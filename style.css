@@ -91,3 +91,40 @@ pre{
   background-color: antiquewhite;
   width: 28em;
 }
+.footer_container{
+  display: flex;
+  justify-content: space-around;
+  height: 5em;    
+  background-color: #d3d3d3;
+}
+a{
+  color: black;
+  text-decoration: none;
+  transition: 0.5s linear;
+}
+a:hover{
+  color: #708090;
+}
+.rs_logo{
+  height: 5em;
+  width: 5em;
+}
+.year_creation{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 0.6em;
+}
+.github{
+  margin-top: 1em;
+}
+.github_logo{
+  height: 1.2em;
+  width: 1.2em;
+}
+.github_name{
+  font-size: 1.5em;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
