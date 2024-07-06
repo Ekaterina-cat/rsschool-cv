@@ -29,19 +29,65 @@ h1{
   margin-top: 0.4em;
   font-size: 3em;
 }
-li{
-  list-style-type:  none;
-}
 .header-list{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   gap: 1.3em;
   margin-top: 10%;
+  list-style-type: none;
 }
 .header-link{
   color: black;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-weight: bold;
   letter-spacing: 0.1em;
+}
+main{
+  display: block;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  gap: 2em;
+}
+.block_contact{
+  margin-top: -1.3em;
+  background-color: #d3d3d3;
+}
+.contact_info{
+  width: 20em;
+}
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  letter-spacing: 0.1em;
+  background: #d3d3d3;
+  width: 12em; 
+}
+.icon_contact{
+  width: 2em;
+  height: 2em;
+}
+.text_contact, .experience_project{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  margin-left: -1em;
+  font-weight: bold;
+  list-style-type: none;
+}
+.block_info-name{    
+  margin-left: -1.35em;
+  width: 20em;
+}
+p, .skills_info{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+}
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.1em;
+  font-size: 1em;
+}
+pre{
+  background-color: antiquewhite;
+  width: 28em;
 }
